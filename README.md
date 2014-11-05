@@ -1,7 +1,7 @@
 PieLogger (PyLogger)
 ========
 
-Created by Wilson Koder
+Created by Wilson Koder for EDUCATIONAL PURPOSES ONLY!
 
 Deal with it.
 
