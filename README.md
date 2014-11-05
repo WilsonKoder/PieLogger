@@ -1,4 +1,4 @@
-PyLogger
+PieLogger (PyLogger)
 ========
 
 Created by Wilson Koder
